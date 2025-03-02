@@ -1,0 +1,122 @@
+@charset "UTF-8";
+.navbar {
+  background-color: #46b86d;
+  height: 80px;
+  display: block;
+}
+
+.navbar-brand:hover, .nav-1:hover, .nav-2:hover {
+  color: white; /* ホバー時の色を変更しない */
+  text-decoration: none;
+}
+
+.navbar-brand {
+  font-size: 30px;
+  margin-left: 20px;
+  color: white;
+}
+
+.nav-1, .nav-2 {
+  font-size: 18px;
+  color: white;
+  padding-right: 20px;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.img-fluid {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  display: block; /* 親要素の幅に合わせて表示 */
+}
+
+.slogan{
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
+
+.everytime{
+  font-size: 32px;
+  margin: 6px;
+}
+
+.green {
+  font-size: 38px;
+  margin: 6px;
+  color: #3cb371;
+}
+
+.tomato{
+  padding: 10px;
+}
+
+.fresh {
+  margin-bottom: 20px;
+  padding-top: 15px;
+}
+
+p {
+  font-size: 19px;
+  text-indent: 1rem;
+  margin: 0px;
+}
+
+.button{
+  margin: 30px auto;
+  max-width: 320px;
+  padding-left: 0;
+}
+
+.purchase {
+  color: white;
+  background-color: #ffa500;
+  margin: 10px;
+  font-size: 30px;
+  padding: 5px 20px;
+  border-radius: 15px;
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+
+.detail {
+  color: white;
+  background-color: #3cb371;
+  margin: 10px;
+  font-size: 30px;
+  padding: 5px 20px;
+  border-radius: 15px;
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+
+.purchase:focus, .detail:focus {
+  outline: none; /* フォーカス時の枠線を消す */
+  box-shadow: none; /* フォーカス時の影を消す */
+}
+
+.btn:hover {
+  background-color: #ffa500;/* ホバー時の背景色を同じに設定 */
+  color: white; /* ホバー時の文字色を同じに設定 */
+}
+
+.footer{
+  background-color: #3cb371;
+  color: white;
+  height: 6rem;
+  padding-top: 6px;
+}
+
+.text-W{
+  font-size: 30px;
+  margin-bottom: 2px;
+}
+
+.text02{
+  font-size: 13px;
+  margin-bottom: 5px;
+}
