@@ -5,6 +5,6 @@
 模写コーディングの練習です。
 レスポンシブ対応しています。
 <br/><br/>
-公開URL： [野菜のデモサイト](https://practice-peach-rho.vercel.app/)<br/><br/>
+公開リンク： [野菜のデモサイト](https://practice-peach-rho.vercel.app/)<br/><br/>
 参考リンク：[【難易度別】初心者の模写コーディングにおすすめな無料サイト9選](https://programming-yell.jp/copy-coding-site/#i-12)
 
